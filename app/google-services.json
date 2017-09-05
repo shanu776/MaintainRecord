@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773457623392",
+    "firebase_url": "https://precisodatamanagement.firebaseio.com",
+    "project_id": "precisodatamanagement",
+    "storage_bucket": "precisodatamanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773457623392:android:7ef76ce83aa4bdc5",
+        "android_client_info": {
+          "package_name": "com.opensis.shanu.maintainrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773457623392-og383b5hnou5643kq4vgas40b141lclm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "773457623392-hnf0jdg377mfdcngn33gagmo21aufkg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYBDO0vUPsTXYRJYyIiXk58cjKEO-jGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
